@@ -1,1 +1,0 @@
-License: public domain / CC0 (https://tldrlegal.com/license/creative-commons-cc0-1.0-universal)
